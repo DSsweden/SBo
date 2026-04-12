@@ -10,3 +10,7 @@ hyfetch is a version of neofetch that uses LBGTQ pride flags
 
 This build uses the source package from the upstream projects Github
 repository
+
+Note: This is the last version (2.0.2) of hyfetch that is supported with Slackware 15.0 (stable)
+due to old version of python (python3-3.9)
+// MDKDIO
